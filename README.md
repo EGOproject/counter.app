@@ -1,2 +1,2 @@
 # counter.app
-test project to learn js
+small test project to learn js
